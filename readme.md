@@ -146,4 +146,5 @@ CREATE TABLE tareaAsignada (
 
 ### Conclusión
 
+Como motor de base de datos consideramos usar MySQL, ya que es el sistema de gestión de base de datos más popular.
 Esta lista de tareas para una pizzería está diseñada para ser fácil de usar y extensible, con una estructura de base de datos bien definida que permite gestionar las tareas y usuarios de manera eficiente. Además, es posible expandir el sistema para incluir más funcionalidades como la asignación de tareas a usuarios específicos, generar reportes de tareas completadas, y mucho más.
