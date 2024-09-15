@@ -1,4 +1,12 @@
+
 # Documentación - Lista de Tareas (ToDo List) para una Pizzería
+
+## Integrantes del Grupo:
+
+- Leonel Giralde
+- Oscar Ortiz
+- Casimiro Daniel
+- Marcelo Giglio
 
 ## Concepto General
 
